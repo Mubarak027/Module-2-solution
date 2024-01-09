@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+       <meta name="viewport" content="width=992px, initial-scale=1.0"> 
+    </head>
+        <title>Assignment Solution for Module 2</title>
+        <link rel="stylesheet" href="mod2.css">
+        <h1>Our Menu</h1>
+        <p class="a">
+        <section class="a">
+          <h2>Chicken</h2>
+        Chicken is one of the most versatile proteins. It can be prepared in many ways—roasted, broiled, grilled, or poached, in soups, stews and potpies—and with a variety of seasonings, toppings and sauces. It's no wonder that chicken is a staple in practically every kitchen.
+            In the United States, consumers purchase chicken over other proteins because it is versatile and convenient. Americans ate a record 93 pounds of chicken per person in 2018, according to the U.S. Department of Agriculture.
+            Furthermore, Americans anticipate increasing their overall chicken consumption in the next 12 months. Twenty-nine percent of consumers anticipate eating more chicken from the supermarket and 19 percent anticipate eating more from a food service establishment.</p>
+          </section>
+        
+
+          <p class="a">
+            <section class="a">
+              <h2>Beef</h2>
+          The United States and Australia are the top beef producing countries in the world. More than 100 medicines used by humans come from beef cattle.One cowhide can produce enough leather to make 20 footballs, 18 soccer balls,18 volleyballs, or 12 basketballs.Among the 50 states, Kansas is number 1 in beef processing and number 3 in beef production.
+            Cattle are ruminant animals. They have a stomach with four compartments, which allows them to eat feeds like grass and hay which humans cannot eat.When the average beef cow chews feed it causes over 40,000 jaw movements per day. Cattle consume less than 2/10ths of 1% of all water used in the United States. Cattle outnumber humans in nine states: Idaho, Iowa, Kansas, Montana, Nebraska, North Dakota, South Dakota, Oklahoma, and Wyoming. </p>
+      
+
+      
+      </section>
+      <p class="a">
+          <section class="a">
+            <h2>Sushi</h2>
+          Sushi (寿司) is a traditional food from Japan. It is a popular dish in other countries as well, such as America, Canada, and the UK, along with many other countries.Sushi is made with specially prepared rice. The rice is mixed with vinegar, salt, and sugar. Sushi also contains raw or cooked seafood, and sometimes vegetables as well. Sometimes sushi is wrapped in a sheet of seaweed called nori.There are many different kinds of sushi.
+             The most common sushi in Japan is nigirizushi: fish that is placed on top of a small portion of sushi rice. Sometimes you may find other ingredients on top of rice, such as egg instead of fish. Makizushi consists of rice rolled around fish and/or vegetables. In America, makizushi is more popular than nigirizushi. Another type is known as temaki or a hand roll.</p>
+
+            </section>
+          
+
+    
+</html>
