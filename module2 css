@@ -1,0 +1,46 @@
+@media screen and (max-width: 992px) {
+    body{
+        background-color: white;
+    }
+}
+h1{
+   text-align: center; 
+   color: black;
+   padding-left: 50px;
+   padding-right: 50px;
+}
+h2{
+    display:block;
+    box-sizing: border-box;
+    font-size: small;
+    font-style: normal;
+    margin-left: 1245px;
+    margin-bottom: -0.3px;
+    border-bottom: 1px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 1px solid black;
+    float: inline-end;
+}
+
+section.a{
+    box-sizing: border-box;
+    display: inline-block;
+    text-align: center;
+    padding-left: 8px ;
+    padding-right: 8px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border: 1px solid black;
+    
+    
+}
+p.a{
+    box-sizing: border-box;
+    padding:0%;
+    padding-left: 6px;
+    padding-right: 6px;
+   
+ }
+ 
+ 
